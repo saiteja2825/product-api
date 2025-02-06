@@ -20,7 +20,7 @@
       "price": "₹120",
       "availability": "In Stock",
       "category": "Spices",
-      "image": "https://chinnakkaproducts.blogspot.com/spicy-masala-mix.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ033p7MaLWxHo0Pzo-nGWSZEYxivrYOslq6o1-5uH_gMUU40MV1Q-mzTreVNtEL-zXsbowOSP37xH6PEveh_eh8GjVLTtW6SursVuPAruoJtpjFChJy4G0qyIu-RbpwRpmvSLvrauUy50EeRfCZnTo91UXgnjI75Hufth-G7T-mxXjF0HyuaNEJ2xVOM/s1280/fennel%20seeds.jpg",
       "rating": 4.8,
       "reviewCount": 120,
       "tags": [
@@ -47,7 +47,7 @@
       "price": "₹150",
       "availability": "In Stock",
       "category": "Dairy Products",
-      "image": "https://chinnakkaproducts.blogspot.com/fresh-paneer.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ033p7MaLWxHo0Pzo-nGWSZEYxivrYOslq6o1-5uH_gMUU40MV1Q-mzTreVNtEL-zXsbowOSP37xH6PEveh_eh8GjVLTtW6SursVuPAruoJtpjFChJy4G0qyIu-RbpwRpmvSLvrauUy50EeRfCZnTo91UXgnjI75Hufth-G7T-mxXjF0HyuaNEJ2xVOM/s1280/fennel%20seeds.jpg",
       "rating": 4.7,
       "reviewCount": 80,
       "tags": [
