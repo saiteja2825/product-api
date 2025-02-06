@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Spicy Masala Mix",
+      "description": "A rich blend of spices to add flavor to your dishes.",
+      "ingredients": [
+        "Cumin",
+        "Coriander",
+        "Red chili powder",
+        "Turmeric",
+        "Ginger powder"
+      ],
+      "instructions": [
+        "Use 1-2 teaspoons per serving of your favorite curry or dish.",
+        "Store in a cool, dry place to preserve freshness."
+      ],
+      "prepTimeMinutes": 5,
+      "cookTimeMinutes": 0,
+      "price": "₹120",
+      "availability": "In Stock",
+      "category": "Spices",
+      "image": "https://chinnakkaproducts.blogspot.com/spicy-masala-mix.jpg",
+      "rating": 4.8,
+      "reviewCount": 120,
+      "tags": [
+        "Spices",
+        "Indian",
+        "Vegetarian"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fresh Paneer",
+      "description": "Soft and fresh paneer made from pure cow milk.",
+      "ingredients": [
+        "Cow milk",
+        "Lemon juice",
+        "Salt"
+      ],
+      "instructions": [
+        "Cut the paneer into cubes.",
+        "Use in curries, snacks, or salads."
+      ],
+      "prepTimeMinutes": 10,
+      "cookTimeMinutes": 20,
+      "price": "₹150",
+      "availability": "In Stock",
+      "category": "Dairy Products",
+      "image": "https://chinnakkaproducts.blogspot.com/fresh-paneer.jpg",
+      "rating": 4.7,
+      "reviewCount": 80,
+      "tags": [
+        "Dairy",
+        "Vegetarian"
+      ]
+    }
+  ]
+}
